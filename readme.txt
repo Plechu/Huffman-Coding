@@ -1,0 +1,1 @@
+Aby program wczytywa³ logo nale¿y je dodaæ do lokalizacji zbudowanego projektu.
